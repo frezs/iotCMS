@@ -1,2 +1,2 @@
-# loTCMS
-loTCMS is loT devices management platform.
+# ioTCMS
+iotCMS is iot devices management platform.
